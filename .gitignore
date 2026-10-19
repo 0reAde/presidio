@@ -1,0 +1,12 @@
+# Virtual environments (each person creates their own)
+presidio-env/
+.venv/
+venv/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
